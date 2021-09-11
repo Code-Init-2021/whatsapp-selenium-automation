@@ -1,13 +1,15 @@
-#Whatsapp-selenium-automation
+# Whatsapp-selenium-automation
 <br>
-##Steps to use:
+
+## Steps to use:
 <br>
 1. Add a source.csv file containing the rows in <phno, msg> format.<br>
 2. Run python testautomate.py<br>
 3. Scan whatsapp barcode<br>
 4. Wait for the script to send the message to each of the number<br>
 <br><br>
-##FAQ:
+
+## FAQ:
 1. Does this need the scan part for sure?<br>
 Yea
 <br><br>
