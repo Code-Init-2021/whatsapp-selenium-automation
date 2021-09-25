@@ -1,5 +1,10 @@
 # Whatsapp-selenium-automation
 <br>
+A Python-based selenium automation bot that sends as many messages as you like with a single click!
+All you gotta do is follow the Steps to use and the bot will do its magic
+
+*Warning: This is a prototype and will have bugs - Eg. When the browser takes too much time for the web version to load, the clickable component takes time to load after the button loads, causing the script to crash
+You have been warned.*
 
 ## Steps to use:
 <br>
